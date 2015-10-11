@@ -1,0 +1,62 @@
+
+!2G:initialization argument list!!7--1
+!2T:order of evaluation!!7--4
+!2T:evaluation order!!7--4
+!2G:generic function!!7--17
+!2G:method-defining operator!!7--18
+!2G:congruence!!7--19
+!2G:default method!!7--19
+!2G:effective method!!7--22
+!2G:next method!!7--23
+!2R:standard!!7--24
+!2R:+!!7--26
+!2R:and!!7--26
+!2R:append!!7--26
+!2R:list!!7--26
+!2R:max!!7--26
+!2R:min!!7--26
+!2R:nconc!!7--26
+!2R:or!!7--26
+!2R:progn!!7--26
+!2R:standard!!7--26
+!2R:function-keywords!!7--28
+!2R:ensure-generic-function!!7--29
+!2R:allocate-instance!!7--30
+!2R:reinitialize-instance!!7--31
+!2R:shared-initialize!!7--32
+!2R:update-instance-for-different-class!!7--34
+!2R:update-instance-for-redefined-class!!7--35
+!2R:change-class!!7--38
+!2R:slot-boundp!!7--40
+!2R:slot-exists-p!!7--41
+!2R:slot-makunbound!!7--42
+!2R:slot-missing!!7--43
+!2R:slot-unbound!!7--44
+!2R:slot-value!!7--45
+!2R:method-qualifiers!!7--47
+!2R:no-applicable-method!!7--47
+!2R:no-next-method!!7--48
+!2R:remove-method!!7--49
+!2R:make-instance!!7--49
+!2R:make-instances-obsolete!!7--50
+!2R:make-load-form!!7--51
+!2R:make-load-form-saving-slots!!7--55
+!2R:with-accessors!!7--56
+!2R:with-slots!!7--58
+!2R:defclass!!7--60
+!2R:defgeneric!!7--65
+!2R:defmethod!!7--69
+!2R:find-class!!7--71
+!2R:next-method-p!!7--72
+!2R:call-method, make-method!!7--73
+!2R:call-next-method!!7--74
+!2R:compute-applicable-methods!!7--76
+!2R:define-method-combination!!7--76
+!2R:find-method!!7--85
+!2R:add-method!!7--87
+!2R:initialize-instance!!7--88
+!2R:class-name!!7--88
+!2R:(setf class-name)!!7--89
+!2R:class-of!!7--90
+!2R:unbound-slot!!7--90
+!2R:unbound-slot-instance!!7--91

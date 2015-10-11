@@ -1,0 +1,30 @@
+pdftex chap-1.tex
+pdftex chap-2.tex
+pdftex chap-3.tex
+pdftex chap-4.tex
+pdftex chap-5.tex
+pdftex chap-6.tex
+pdftex chap-7.tex
+pdftex chap-8.tex
+pdftex chap-9.tex
+pdftex chap-10.tex
+pdftex chap-11.tex
+pdftex chap-12.tex
+pdftex chap-13.tex
+pdftex chap-14.tex
+pdftex chap-15.tex
+pdftex chap-16.tex
+pdftex chap-17.tex
+pdftex chap-18.tex
+pdftex chap-19.tex
+pdftex chap-20.tex
+pdftex chap-21.tex
+pdftex chap-22.tex
+pdftex chap-23.tex
+pdftex chap-24.tex
+pdftex chap-25.tex
+pdftex chap-26.tex
+pdftex chap-a.tex
+pdftex chap-0.tex
+
+REM gswin64c -sDEVICE=pdfwrite -dNOPAUSE -dBATCH -dSAFER -sOutputFile=ansi_standard.pdf ANSI-CL-00.ps ANSI-CL-01.ps ANSI-CL-02.ps ANSI-CL-03.ps ANSI-CL-04.ps ANSI-CL-05.ps ANSI-CL-06.ps ANSI-CL-07.ps ANSI-CL-08.ps ANSI-CL-09.ps ANSI-CL-10.ps ANSI-CL-11.ps ANSI-CL-12.ps ANSI-CL-13.ps ANSI-CL-14.ps ANSI-CL-15.ps ANSI-CL-16.ps ANSI-CL-17.ps ANSI-CL-18.ps ANSI-CL-19.ps ANSI-CL-20.ps ANSI-CL-21.ps ANSI-CL-22.ps ANSI-CL-23.ps ANSI-CL-24.ps ANSI-CL-25.ps ANSI-CL-26.ps ANSI-CL-A.ps

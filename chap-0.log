@@ -1,0 +1,2018 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdftex 2015.6.16)  11 OCT 2015 19:32
+entering extended mode
+**chap-0.tex
+(chap-0.tex (setup-for-toc.tex (setup-version.tex) (setup-title.tex)
+(setup-aux.tex (setup-cmfont.tex)
+\normalleftskip=\skip18
+\comleftskip=\skip19
+\hcomleftskip=\skip20
+\normalparskip=\skip21
+\combarht=\dimen16
+\fullhsize=\dimen17
+\headline=\toks12
+\footline=\toks13
+\iskip=\skip22
+\iiskip=\skip23
+\iiiskip=\skip24
+\firstcolbox=\box16
+\othercolbox=\box17
+\tocfile=\write0
+\figfile=\write1
+\idxfile=\write2
+\issfile=\write3
+\reffile=\write4
+\secfile=\write5
+\capno=\count26
+\secn=\count27
+\ssecn=\count28
+\sssecn=\count29
+\ssssecn=\count30
+\sssssecn=\count31
+\ssssssecn=\count32
+\comline=\box18
+\idxins=\insert252
+\leftcolumn=\box19
+\dotw=\dimen18
+\changedepth=\dimen19
+) (setup-document.tex) (setup-tables.tex)
+(setup-terms.tex) (setup-figures.tex) (setup-sections-for-toc.tex)
+(setup-options.tex)) [0{C:/Users/vancan1ty/AppData/Local/MiKTeX/2.9/pdftex/conf
+ig/pdftex.map}] [0]
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+ []\prmten Chapter 1 (In-tro-duc-tion)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-1.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+ []\prmten Chapter 2 (Syn-tax)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-2.fig [-1])
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+ []\prmten Chapter 3 (Eval-u-a-tion and Com-pi-la-tion)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-3.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+ []\prmten Chapter 4 (Types and Classes)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-4.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+ []\prmten Chapter 5 (Data and Con-trol Flow)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-5.fig [-2])
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+ []\prmten Chapter 6 (It-er-a-tion)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-6.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+ []\prmten Chapter 7 (Ob-jects)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-7.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+ []\prmten Chapter 8 (Struc-tures)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-8.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+ []\prmten Chapter 9 (Con-di-tions)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-9.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+ []\prmten Chapter 10 (Sym-bols)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-10.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+ []\prmten Chapter 11 (Pack-ages)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-11.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+ []\prmten Chapter 12 (Num-bers)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-12.fig [-3])
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+ []\prmten Chapter 13 (Char-ac-ters)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-13.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+ []\prmten Chapter 14 (Conses)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-14.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+ []\prmten Chapter 15 (Ar-rays)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-15.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+ []\prmten Chapter 16 (Strings)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-16.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+ []\prmten Chapter 17 (Se-quences)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-17.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+ []\prmten Chapter 18 (Hash Ta-bles)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-18.fig [-4])
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+ []\prmten Chapter 19 (File-names)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-19.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+ []\prmten Chapter 20 (Files)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-20.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+ []\prmten Chapter 21 (Streams)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-21.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+ []\prmten Chapter 22 (Printer)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-22.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
+ []\prmten Chapter 23 (Reader)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-23.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+ []\prmten Chapter 24 (Sys-tem Con-struc-tion)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-24.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+ []\prmten Chapter 25 (En-vi-ron-ment)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-25.fig [-5])
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+ []\prmten Chapter 26 (Glos-sary)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-26.fig)
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+ []\prmten Chapter A (Ap-pendix)
+
+\hbox(7.5+2.5)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten C
+.\prmten h
+.\prmten a
+.etc.
+
+(chap-a.fig) [-6] (chap-1.toc [-1]) (chap-2.toc [-2] [-3]) (chap-3.toc [-4]
+[-5]) (chap-4.toc [-6]) (chap-5.toc) (chap-6.toc [-7] [-8]) (chap-7.toc
+[-9]) (chap-8.toc) (chap-9.toc) (chap-10.toc) (chap-11.toc [-10]) (chap-12.toc)
+(chap-13.toc [-11]) (chap-14.toc) (chap-15.toc [-12]) (chap-16.toc)
+(chap-17.toc) (chap-18.toc) (chap-19.toc [-13] [-14]) (chap-20.toc)
+(chap-21.toc) (chap-22.toc [-15] [-16]) (chap-23.toc) (chap-24.toc [-17])
+(chap-25.toc) (chap-26.toc) (chap-a.toc) [-18] (index.idx
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 24.0
+.\rule(0.0+0.0)x*
+.\penalty 10000
+.\glue -10.0
+.\glue(\baselineskip) 18.05556
+.etc.
+
+
+Overfull \vbox (1.75pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.75)x216.0
+..\vbox(516.0+1.75)x216.0
+...\glue(\topskip) 24.0
+...\rule(0.0+0.0)x*
+...\penalty 10000
+...\glue -10.0
+...\glue(\baselineskip) 18.05556
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.25
+.\hbox(6.75+1.75)x216.0, glue set 119.30484fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.75+1.75)x61.69507
+...\bbfnine *
+...\bbfnine p
+...\bbfnine r
+...\bbfnine i
+...\bbfnine n
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.5
+.\hbox(6.75+1.75)x216.0, glue set 123.58871fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.75+1.75)x57.4112
+...\bbfnine *
+...\bbfnine p
+...\bbfnine r
+...\bbfnine i
+...\bbfnine n
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-1]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+2.0)x216.0, glue set 119.8507fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(5.49998+2.0)x66.14923
+...\lgnine :
+...\lgnine l
+...\lgnine o
+...\lgnine a
+...\lgnine d
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.55556
+.\hbox(6.44444+0.0)x216.0, glue set 157.65025fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(5.49998+0.0)x28.34967
+...\lgnine :
+...\lgnine l
+...\lgnine o
+...\lgnine c
+...\lgnine a
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Overfull \vbox (1.94444pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.94444)x216.0
+..\vbox(516.0+1.94444)x216.0
+...\glue(\topskip) 17.55556
+...\hbox(6.44444+2.0)x216.0, glue set 119.8507fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.55556
+...\hbox(6.44444+0.0)x216.0, glue set 157.65025fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.75)x216.0, glue set 112.5543fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x68.4456
+...\bbfnine a
+...\bbfnine l
+...\bbfnine p
+...\bbfnine h
+...\bbfnine a
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.30556
+.\hbox(6.94444+1.94444)x216.0, glue set 138.32799fil
+..\hbox(0.0+0.0)x0.0
+..\bitten a
+..\bitten m
+..\bitten p
+..\kern-0.51112
+..etc.
+.etc.
+
+ [-2]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+0.0)x216.0, glue set 157.06728fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(4.0+0.0)x23.93263
+...\bbfnine a
+...\bbfnine s
+...\bbfnine s
+...\bbfnine o
+...\kern0.29584
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.55556
+.\hbox(6.44444+0.0)x216.0, glue set 146.28616fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x34.71375
+...\bbfnine a
+...\bbfnine s
+...\bbfnine s
+...\bbfnine o
+...\kern0.29584
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+0.0)x216.0, glue set 141.50673fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x39.49318
+...\bbfnine b
+...\bbfnine i
+...\bbfnine t
+...\bbfnine -
+...\bbfnine n
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.55556
+.\hbox(6.44444+0.0)x216.0, glue set 148.79892fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x32.20099
+...\bbfnine b
+...\bbfnine i
+...\bbfnine t
+...\bbfnine -
+...\bbfnine n
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-3]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+0.0)x216.0, glue set 113.42226fil
+..\hbox(0.0+0.0)x0.0
+..\bitten b
+..\bitten r
+..\kern-0.51112
+..\bitten o
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.55556
+.\hbox(6.44444+0.0)x216.0, glue set 105.79509fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x80.20483
+...\bbfnine b
+...\bbfnine r
+...\bbfnine o
+...\bbfnine a
+...\bbfnine d
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+2.25)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+0.0)x216.0, glue set 154.68645fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x31.31348
+...\bbfnine c
+...\bbfnine d
+...\bbfnine a
+...\bbfnine a
+...\bbfnine d
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.55556
+.\hbox(6.44444+0.0)x216.0, glue set 160.60303fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x25.3969
+...\bbfnine c
+...\bbfnine d
+...\bbfnine a
+...\bbfnine a
+...\bbfnine r
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-4]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+0.0)x216.0, glue set 155.82591fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x25.174
+...\bbfnine c
+...\kern-0.29585
+...\bbfnine h
+...\bbfnine a
+...\bbfnine r
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.55556
+.\hbox(6.44444+0.0)x216.0, glue set 147.54268fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x33.45723
+...\bbfnine c
+...\kern-0.29585
+...\bbfnine h
+...\bbfnine a
+...\bbfnine r
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Overfull \vbox (1.94444pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.94444)x216.0
+..\vbox(516.0+1.94444)x216.0
+...\glue(\topskip) 17.55556
+...\hbox(6.44444+0.0)x216.0, glue set 155.82591fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 4.55556
+...\hbox(6.44444+0.0)x216.0, glue set 147.54268fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+1.94444)x216.0, glue set 45.96863fil
+..\hbox(0.0+0.0)x0.0
+..\bitten c
+..\kern-0.51112
+..\bitten o
+..\bitten m
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.11111
+.\hbox(6.94444+1.94444)x216.0, glue set 108.75175fil
+..\hbox(0.0+0.0)x0.0
+..\bitten c
+..\kern-0.51112
+..\bitten o
+..\bitten m
+..etc.
+.etc.
+
+ [-5]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+0.0)x216.0, glue set 142.80884fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x43.19109
+...\bbfnine c
+...\bbfnine o
+...\bbfnine n
+...\bbfnine d
+...\bbfnine i
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.05556
+.\hbox(6.94444+1.94444)x216.0, glue set 70.26297fil
+..\hbox(0.0+0.0)x0.0
+..\bitten c
+..\kern-0.51112
+..\bitten o
+..\bitten n
+..etc.
+.etc.
+
+
+Overfull \hbox (19.99718pt too wide) in paragraph at lines 526--526
+[]\bitten define-method-combination ar-gu-ments lambda list \prmten 3--
+
+\hbox(6.94444+1.94444)x216.0
+.\hbox(0.0+0.0)x0.0
+.\bitten d
+.\bitten e
+.\bitten  (ligature fi)
+.\bitten n
+.etc.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+0.0)x216.0, glue set 144.48167fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x36.51823
+...\bbfnine c
+...\bbfnine o
+...\bbfnine u
+...\bbfnine n
+...\kern-0.29585
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.55556
+.\hbox(6.44444+0.0)x216.0, glue set 126.56734fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x54.43257
+...\bbfnine c
+...\bbfnine o
+...\bbfnine u
+...\bbfnine n
+...\kern-0.29585
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-6]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+1.94444)x216.0, glue set 121.8387fil
+..\hbox(0.0+0.0)x0.0
+..\bitten d
+..\bitten e
+..\bitten  (ligature fi)
+..\bitten n
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.61111
+.\hbox(6.44444+0.0)x216.0, glue set 143.43933fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x42.5606
+...\bbfnine d
+...\bbfnine e
+...\bbfnine f
+...\bbfnine m
+...\bbfnine a
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.75)x216.0, glue set 107.46594fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x73.53397
+...\bbfnine d
+...\bbfnine i
+...\bbfnine v
+...\bbfnine i
+...\bbfnine s
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.80556
+.\hbox(6.44444+0.0)x216.0, glue set 174.7584fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x11.24152
+...\bbfnine d
+...\bbfnine o
+...\kern 0.0
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-7]
+Overfull \hbox (3.22275pt too wide) in paragraph at lines 651--651
+[]\prmten evaluation or-der 3--63, 5--2, 5--43, 5--83, 6--5, 6--9,
+
+\hbox(6.94444+1.94444)x216.0
+.\hbox(0.0+0.0)x0.0
+.\prmten e
+.\prmten v
+.\kern-0.55556
+.\prmten a
+.etc.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.94444)x216.0, glue set 133.22667fil
+..\hbox(0.0+0.0)x0.0
+..\bitten e
+..\bitten m
+..\bitten p
+..\bitten t
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.61111
+.\hbox(6.44444+0.0)x216.0, glue set 84.3455fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x101.65442
+...\bbfnine e
+...\bbfnine n
+...\bbfnine c
+...\bbfnine o
+...\kern0.29584
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Overfull \vbox (1.75pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.75)x216.0
+..\vbox(516.0+1.75)x216.0
+...\glue(\topskip) 17.55556
+...\hbox(6.44444+1.94444)x216.0, glue set 133.22667fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.61111
+...\hbox(6.44444+0.0)x216.0, glue set 84.3455fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+1.94444)x216.0, glue set 144.27795fil
+..\hbox(0.0+0.0)x0.0
+..\bitten e
+..\bitten x
+..\bitten p
+..\kern-0.51112
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.11111
+.\hbox(6.94444+1.94444)x216.0, glue set 83.8603fil
+..\hbox(0.0+0.0)x0.0
+..\bitten e
+..\bitten x
+..\bitten p
+..\bitten r
+..etc.
+.etc.
+
+ [-8]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+1.94444)x216.0, glue set 117.84868fil
+..\hbox(0.0+0.0)x0.0
+..\bitten  (ligature fi)
+..\bitten l
+..\bitten e
+..\bitten n
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.61111
+.\hbox(6.44444+0.0)x216.0, glue set 174.16675fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x11.83318
+...\bbfnine  (ligature fi)
+...\bbfnine l
+...\bbfnine l
+...\kern 0.0
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Overfull \vbox (1.94444pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.94444)x216.0
+..\vbox(516.0+1.94444)x216.0
+...\glue(\topskip) 17.05556
+...\hbox(6.94444+1.94444)x216.0, glue set 117.84868fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.61111
+...\hbox(6.44444+0.0)x216.0, glue set 174.16675fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+1.94444)x216.0, glue set 122.61559fil
+..\hbox(0.0+0.0)x0.0
+..\bitten f
+..\bitten o
+..\bitten r
+..\bitten m
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.61111
+.\hbox(6.44444+0.0)x216.0, glue set 136.41293fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x44.58698
+...\bbfnine f
+...\bbfnine o
+...\bbfnine r
+...\bbfnine m
+...\bbfnine a
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-9]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.75)x216.0, glue set 65.88164fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x115.11827
+...\bbfnine g
+...\bbfnine e
+...\bbfnine t
+...\bbfnine -
+...\bbfnine o
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.80556
+.\hbox(6.44444+1.75)x216.0, glue set 115.78247fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x65.21744
+...\bbfnine g
+...\bbfnine e
+...\bbfnine t
+...\bbfnine -
+...\bbfnine p
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Overfull \vbox (1.94444pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.94444)x216.0
+..\vbox(516.0+1.94444)x216.0
+...\glue(\topskip) 17.55556
+...\hbox(6.44444+1.75)x216.0, glue set 65.88164fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.80556
+...\hbox(6.44444+1.75)x216.0, glue set 115.78247fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+1.94444)x216.0, glue set 65.81873fil
+..\hbox(0.0+0.0)x0.0
+..\bitten i
+..\bitten m
+..\bitten p
+..\bitten l
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.11111
+.\hbox(6.94444+1.94444)x216.0, glue set 57.12988fil
+..\hbox(0.0+0.0)x0.0
+..\bitten i
+..\bitten m
+..\bitten p
+..\bitten l
+..etc.
+.etc.
+
+ [-10]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+1.94444)x216.0, glue set 98.40189fil
+..\hbox(0.0+0.0)x0.0
+..\bitten i
+..\bitten n
+..\bitten t
+..\bitten e
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.11111
+.\hbox(6.94444+0.0)x216.0, glue set 150.8334fil
+..\hbox(0.0+0.0)x0.0
+..\bitten i
+..\bitten n
+..\bitten v
+..\bitten a
+..etc.
+.etc.
+
+
+Overfull \vbox (1.75pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.75)x216.0
+..\vbox(516.0+1.75)x216.0
+...\glue(\topskip) 17.05556
+...\hbox(6.94444+1.94444)x216.0, glue set 98.40189fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.11111
+...\hbox(6.94444+0.0)x216.0, glue set 150.8334fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.75)x216.0, glue set 18.20311fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x162.7968
+...\bbfnine l
+...\bbfnine e
+...\bbfnine a
+...\bbfnine s
+...\bbfnine t
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.80556
+.\hbox(6.44444+1.75)x216.0, glue set 13.75092fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x167.249
+...\bbfnine l
+...\bbfnine e
+...\bbfnine a
+...\bbfnine s
+...\bbfnine t
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-11]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+0.0)x216.0, glue set 114.31564fil
+..\hbox(0.0+0.0)x0.0
+..\bitten l
+..\bitten o
+..\kern-0.51112
+..\bitten a
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.55556
+.\hbox(6.44444+1.75)x216.0, glue set 21.02467fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x159.97523
+...\bbfnine l
+...\bbfnine o
+...\bbfnine a
+...\bbfnine d
+...\bbfnine -
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Overfull \vbox (1.75pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.75)x216.0
+..\vbox(516.0+1.75)x216.0
+...\glue(\topskip) 17.05556
+...\hbox(6.94444+0.0)x216.0, glue set 114.31564fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 4.55556
+...\hbox(6.44444+1.75)x216.0, glue set 21.02467fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+0.0)x216.0, glue set 139.74327fil
+..\hbox(0.0+0.0)x0.0
+..\bitten l
+..\bitten o
+..\bitten w
+..\bitten e
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.55556
+.\hbox(6.44444+0.0)x216.0, glue set 101.35155fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x79.64836
+...\bbfnine m
+...\bbfnine a
+...\bbfnine c
+...\kern-0.29585
+...\bbfnine h
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-12]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.75)x216.0, glue set 156.00232fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(4.0+1.75)x24.99759
+...\bbfnine m
+...\bbfnine a
+...\bbfnine p
+...\kern0.29584
+...\bbfnine c
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.80556
+.\hbox(6.44444+1.75)x216.0, glue set 144.90874fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(4.0+1.75)x36.09117
+...\bbfnine m
+...\bbfnine a
+...\bbfnine p
+...\kern0.29584
+...\bbfnine c
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Overfull \vbox (1.75pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.75)x216.0
+..\vbox(516.0+1.75)x216.0
+...\glue(\topskip) 17.55556
+...\hbox(6.44444+1.75)x216.0, glue set 156.00232fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.80556
+...\hbox(6.44444+1.75)x216.0, glue set 144.90874fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.75)x216.0, glue set 64.99403fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x116.00587
+...\bbfnine m
+...\bbfnine o
+...\bbfnine s
+...\bbfnine t
+...\bbfnine -
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.80556
+.\hbox(6.44444+1.94444)x216.0, glue set 90.85147fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x69.03728
+...\bbfnine m
+...\kern-0.29585
+...\bbfnine u
+...\bbfnine  (ligature ffl)
+...\bbfnine e
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-13]
+Overfull \hbox (6.83386pt too wide) in paragraph at lines 1205--1205
+[]\prmten order of eval-u-a-tion 3--63, 5--2, 5--43, 5--83, 6--5, 6--
+
+\hbox(6.94444+1.94444)x216.0
+.\hbox(0.0+0.0)x0.0
+.\prmten o
+.\prmten r
+.\prmten d
+.\prmten e
+.etc.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.94444)x216.0, glue set 144.50563fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(5.7143+0.0)x15.38312
+...\bbfnine n
+...\bbfnine o
+...\bbfnine t
+...\kern 0.0
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.61111
+.\hbox(6.44444+1.75)x216.0, glue set 154.05038fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(5.7143+1.75)x31.94954
+...\bbfnine n
+...\bbfnine o
+...\bbfnine t
+...\bbfnine a
+...\bbfnine n
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Overfull \vbox (1.94444pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.94444)x216.0
+..\vbox(516.0+1.94444)x216.0
+...\glue(\topskip) 17.55556
+...\hbox(6.44444+1.94444)x216.0, glue set 144.50563fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.61111
+...\hbox(6.44444+1.75)x216.0, glue set 154.05038fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.94444)x216.0, glue set 132.66646fil
+..\prmten 9
+..\prmten ,
+..\glue 3.33333
+..\prmten 7
+..\prmten { (ligature --)
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.11111
+.\hbox(6.94444+1.94444)x216.0, glue set 104.07773fil
+..\hbox(0.0+0.0)x0.0
+..\bitten o
+..\bitten r
+..\kern-0.51112
+..\bitten d
+..etc.
+.etc.
+
+ [-14]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.75)x216.0, glue set 135.91922fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x45.08069
+...\bbfnine p
+...\kern0.29584
+...\bbfnine e
+...\bbfnine e
+...\bbfnine k
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 1.75
+.\hbox(7.5+2.5)x216.0, glue set 67.16638fil
+..\hbox(0.0+0.0)x0.0
+..\prmten P
+..\kern-0.27779
+..\prmten e
+..\prmten r
+..etc.
+.etc.
+
+
+Overfull \vbox (1.75pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.75)x216.0
+..\vbox(516.0+1.75)x216.0
+...\glue(\topskip) 17.55556
+...\hbox(6.44444+1.75)x216.0, glue set 135.91922fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 1.75
+...\hbox(7.5+2.5)x216.0, glue set 67.16638fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.25
+.\hbox(6.75+1.75)x216.0, glue set 124.77202fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.75+1.75)x56.22789
+...\bbfnine *
+...\bbfnine p
+...\bbfnine r
+...\bbfnine i
+...\bbfnine n
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.5
+.\hbox(6.75+1.94444)x216.0, glue set 66.88455fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.75+1.75)x61.893
+...\bbfnine *
+...\bbfnine p
+...\bbfnine r
+...\bbfnine i
+...\bbfnine n
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-15]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.75)x216.0, glue set 146.27881fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x34.7211
+...\bbfnine p
+...\bbfnine r
+...\bbfnine o
+...\kern-0.29585
+...\bbfnine v
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.80556
+.\hbox(6.44444+1.75)x216.0, glue set 162.58134fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x23.41858
+...\bbfnine p
+...\bbfnine s
+...\bbfnine e
+...\bbfnine t
+...\bbfnine f
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Overfull \vbox (1.75pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.75)x216.0
+..\vbox(516.0+1.75)x216.0
+...\glue(\topskip) 17.55556
+...\hbox(6.44444+1.75)x216.0, glue set 146.27881fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.80556
+...\hbox(6.44444+1.75)x216.0, glue set 162.58134fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+0.0)x216.0, glue set 140.35666fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x40.64325
+...\bbfnine r
+...\bbfnine e
+...\bbfnine a
+...\bbfnine d
+...\bbfnine -
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.55556
+.\hbox(6.44444+1.75)x216.0, glue set 59.51993fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x126.48
+...\bbfnine r
+...\bbfnine e
+...\bbfnine a
+...\bbfnine d
+...\bbfnine -
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-16]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+0.0)x216.0, glue set 147.72379fil
+..\hbox(0.0+0.0)x0.0
+..\bitten r
+..\kern-0.51112
+..\bitten e
+..\bitten s
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.55556
+.\hbox(6.44444+1.94444)x216.0, glue set 117.18517fil
+..\hbox(0.0+0.0)x0.0
+..\bitten r
+..\kern-0.51112
+..\bitten e
+..\bitten s
+..etc.
+.etc.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+2.5)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+1.94444)x216.0, glue set 112.14346fil
+..\hbox(0.0+0.0)x0.0
+..\bitten s
+..\bitten e
+..\kern-0.51112
+..\bitten c
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.50197
+.\hbox(6.55359+0.0)x216.0, glue set 150.333fil
+..\hbox(0.0+0.0)x0.0
+..\bitten s
+..\bitten e
+..\kern-0.51112
+..\bitten c
+..etc.
+.etc.
+
+ [-17]
+Overfull \hbox (2.58382pt too wide) in paragraph at lines 1534--1534
+[]\prmten Sharpsign Sharp-sign (reader macro) 2--37, 22--56
+
+\hbox(7.5+2.5)x216.0
+.\hbox(0.0+0.0)x0.0
+.\prmten S
+.\prmten h
+.\prmten a
+.\prmten r
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1534--1534
+[]
+
+\hbox(0.0+0.0)x216.0
+.\hbox(0.0+0.0)x0.0
+.\penalty 10000
+.\glue(\parfillskip) 0.0
+.\glue(\rightskip) 0.0
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 16.5
+.\hbox(7.5+2.5)x216.0, glue set 28.6385fil
+..\hbox(0.0+0.0)x0.0
+..\prmten S
+..\prmten h
+..\prmten a
+..\prmten r
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 1.0
+.\hbox(7.5+2.5)x216.0, glue set 64.16637fil
+..\hbox(0.0+0.0)x0.0
+..\prmten S
+..\prmten h
+..\prmten a
+..\prmten r
+..etc.
+.etc.
+
+
+Overfull \vbox (1.75pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.75)x216.0
+..\vbox(516.0+1.75)x216.0
+...\glue(\topskip) 16.5
+...\hbox(7.5+2.5)x216.0, glue set 28.6385fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 1.0
+...\hbox(7.5+2.5)x216.0, glue set 64.16637fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.94444)x216.0, glue set 76.17221fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x78.71652
+...\bbfnine s
+...\bbfnine i
+...\bbfnine m
+...\bbfnine p
+...\bbfnine l
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.61111
+.\hbox(6.44444+1.75)x216.0, glue set 92.81685fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x88.18306
+...\bbfnine s
+...\bbfnine i
+...\bbfnine m
+...\bbfnine p
+...\bbfnine l
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-18]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+1.94444)x216.0, glue set 127.97203fil
+..\hbox(0.0+0.0)x0.0
+..\bitten s
+..\bitten p
+..\kern-0.51112
+..\bitten e
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.11111
+.\hbox(6.94444+1.94444)x216.0, glue set 112.4574fil
+..\hbox(0.0+0.0)x0.0
+..\bitten s
+..\bitten p
+..\kern-0.51112
+..\bitten e
+..etc.
+.etc.
+
+
+Overfull \vbox (1.94444pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.94444)x216.0
+..\vbox(516.0+1.94444)x216.0
+...\glue(\topskip) 17.05556
+...\hbox(6.94444+1.94444)x216.0, glue set 127.97203fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.11111
+...\hbox(6.94444+1.94444)x216.0, glue set 112.4574fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.75)x216.0, glue set 85.40446fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x95.59544
+...\bbfnine s
+...\bbfnine t
+...\bbfnine r
+...\bbfnine e
+...\bbfnine a
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.80556
+.\hbox(6.44444+0.0)x216.0, glue set 122.38509fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(5.7143+0.0)x58.61482
+...\bbfnine s
+...\bbfnine t
+...\bbfnine r
+...\bbfnine e
+...\bbfnine a
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-19]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+2.5)x216.0
+.\glue(\topskip) 17.55556
+.\hbox(6.44444+1.75)x216.0, glue set 155.25768fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x30.74225
+...\bbfnine s
+...\bbfnine u
+...\bbfnine b
+...\bbfnine s
+...\bbfnine e
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.80556
+.\hbox(6.44444+1.75)x216.0, glue set 145.82024fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+1.75)x35.17967
+...\bbfnine s
+...\bbfnine u
+...\bbfnine b
+...\bbfnine s
+...\bbfnine e
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+
+Overfull \hbox (8.34766pt too wide) in paragraph at lines 1765--1765
+[]\prmten Tilde Greater-Than-Sign (for-mat di-rec-tive) 22--36
+
+\hbox(7.5+2.5)x216.0
+.\hbox(0.0+0.0)x0.0
+.\prmten T
+.\prmten i
+.\prmten l
+.\prmten d
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1765--1765
+[]
+
+\hbox(0.0+0.0)x216.0
+.\hbox(0.0+0.0)x0.0
+.\penalty 10000
+.\glue(\parfillskip) 0.0
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (14.58379pt too wide) in paragraph at lines 1770--1770
+[]\prmten Tilde Less-Than-Sign (for-mat di-rec-tive) 22--32, 22--
+
+\hbox(7.5+2.5)x216.0
+.\hbox(0.0+0.0)x0.0
+.\prmten T
+.\prmten i
+.\prmten l
+.\prmten d
+.etc.
+
+
+Overfull \vbox (2.5pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+2.5)x216.0
+..\vbox(516.0+2.5)x216.0
+...\glue(\topskip) 17.55556
+...\hbox(6.44444+1.75)x216.0, glue set 155.25768fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 2.80556
+...\hbox(6.44444+1.75)x216.0, glue set 145.82024fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+2.5)x216.0
+.\glue(\topskip) 17.25
+.\hbox(6.75+0.0)x216.0, glue set 119.21039fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.75+0.0)x61.78952
+...\bbfnine *
+...\bbfnine t
+...\bbfnine e
+...\bbfnine r
+...\bbfnine m
+...etc.
+..\glue 10.00002
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.44641
+.\hbox(6.55359+1.94444)x216.0, glue set 108.2766fil
+..\hbox(0.0+0.0)x0.0
+..\bitten t
+..\bitten e
+..\bitten r
+..\bitten m
+..etc.
+.etc.
+
+ [-20]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.75)x216.0
+.\glue(\topskip) 16.5
+.\hbox(7.5+2.5)x216.0, glue set 63.72191fil
+..\hbox(0.0+0.0)x0.0
+..\prmten T
+..\prmten i
+..\prmten l
+..\prmten d
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 1.0
+.\hbox(7.5+2.5)x216.0, glue set 66.4997fil
+..\hbox(0.0+0.0)x0.0
+..\prmten T
+..\prmten i
+..\prmten l
+..\prmten d
+..etc.
+.etc.
+
+
+Overfull \vbox (1.75pt too high) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\hbox(516.0+1.75)x216.0
+..\vbox(516.0+1.75)x216.0
+...\glue(\topskip) 16.5
+...\hbox(7.5+2.5)x216.0, glue set 63.72191fil []
+...\glue(\parskip) 0.0
+...\glue(\baselineskip) 1.0
+...\hbox(7.5+2.5)x216.0, glue set 66.4997fil []
+...etc.
+..\glue 0.0 plus 1.0fil minus 1.0fil
+.\glue 0.0 plus 1.0fil
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+1.94444)x216.0
+.\glue(\topskip) 17.44641
+.\hbox(6.55359+0.0)x216.0, glue set 142.79413fil
+..\hbox(0.0+0.0)x0.0
+..\bitten u
+..\bitten n
+..\bitten i
+..\bitten n
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 4.55556
+.\hbox(6.44444+0.0)x216.0, glue set 141.24976fil
+..\hbox(0.0+0.0)x0.0
+..\mathon
+..\mathoff
+..\hbox(6.25+0.0)x39.75015
+...\bbfnine u
+...\bbfnine n
+...\bbfnine i
+...\bbfnine n
+...\kern-0.29585
+...etc.
+..\glue 10.00002
+..etc.
+.etc.
+
+ [-21]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(516.0+0.0)x216.0
+.\glue(\topskip) 17.05556
+.\hbox(6.94444+1.94444)x216.0, glue set 79.67233fil
+..\hbox(0.0+0.0)x0.0
+..\bitten v
+..\bitten a
+..\bitten l
+..\bitten i
+..etc.
+.\glue(\parskip) 0.0
+.\glue(\baselineskip) 2.11111
+.\hbox(6.94444+1.94444)x216.0, glue set 55.59657fil
+..\hbox(0.0+0.0)x0.0
+..\bitten v
+..\bitten a
+..\bitten l
+..\bitten i
+..etc.
+.etc.
+
+) [-22]
+(chap-0-edit-history.tex
+Underfull \hbox (badness 10000) in alignment at lines 3--14
+[][][]
+
+\hbox(0.0+0.0)x480.0
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x132.05579
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x150.88922
+.\glue(\tabskip) 0.0
+.etc.
+
+
+Underfull \hbox (badness 10000) in alignment at lines 19--27
+[]
+
+\hbox(0.0+0.0)x480.0
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x203.72263
+.\glue(\tabskip) 0.0
+
+[-1]
+Underfull \hbox (badness 10000) in alignment at lines 38--176
+[][][]
+
+\hbox(0.0+0.0)x480.0
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x59.16678
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x66.41678
+.\glue(\tabskip) 0.0
+.etc.
+
+[-2] [-3] [-4]
+Underfull \hbox (badness 10000) in alignment at lines 190--234
+[][]
+
+\hbox(0.0+0.0)x480.0
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x137.77806
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x89.88905
+.\glue(\tabskip) 0.0
+
+
+Underfull \hbox (badness 10000) in alignment at lines 245--268
+[][]
+
+\hbox(0.0+0.0)x480.0
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x171.86148
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x84.25018
+.\glue(\tabskip) 0.0
+
+
+Underfull \hbox (badness 10000) in alignment at lines 288--315
+[][][]
+
+\hbox(0.0+0.0)x480.0
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x147.61137
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x96.63908
+.\glue(\tabskip) 0.0
+.etc.
+
+[-5]
+Underfull \hbox (badness 10000) in alignment at lines 345--406
+[][]
+
+\hbox(0.0+0.0)x480.0
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x204.47267
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x150.9169
+.\glue(\tabskip) 0.0
+
+[-6]
+Underfull \hbox (badness 10000) in alignment at lines 448--497
+[][][]
+
+\hbox(0.0+0.0)x480.0
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x113.94466
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x112.27798
+.\glue(\tabskip) 0.0
+.etc.
+
+) [-7] [-8] )<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+bx9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on chap-0.pdf (56 pages, 246337 bytes).
+PDF statistics:
+ 219 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

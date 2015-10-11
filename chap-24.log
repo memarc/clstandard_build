@@ -1,0 +1,151 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdftex 2015.6.16)  11 OCT 2015 19:32
+entering extended mode
+**chap-24.tex
+(chap-24.tex (setup.tex (setup-version.tex) (setup-title.tex) (setup-aux.tex
+(setup-cmfont.tex)
+\normalleftskip=\skip18
+\comleftskip=\skip19
+\hcomleftskip=\skip20
+\normalparskip=\skip21
+\combarht=\dimen16
+\fullhsize=\dimen17
+\headline=\toks12
+\footline=\toks13
+\iskip=\skip22
+\iiskip=\skip23
+\iiiskip=\skip24
+\firstcolbox=\box16
+\othercolbox=\box17
+\tocfile=\write0
+\figfile=\write1
+\idxfile=\write2
+\issfile=\write3
+\reffile=\write4
+\secfile=\write5
+\capno=\count26
+\secn=\count27
+\ssecn=\count28
+\sssecn=\count29
+\ssssecn=\count30
+\sssssecn=\count31
+\ssssssecn=\count32
+\comline=\box18
+\idxins=\insert252
+\leftcolumn=\box19
+\dotw=\dimen18
+\changedepth=\dimen19
+) (setup-document.tex) (setup-tables.tex) (setup-terms.tex)
+(setup-figures.tex) (setup-sections.tex) (setup-options.tex)) [-1{C:/Users/vanc
+an1ty/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [-2]
+(concept-systems.tex [1]) [2] (dict-system-construction.tex [3]
+Underfull \hbox (badness 2310) in paragraph at lines 124--129
+ []$$[] \prmten is bound by $$[] to hold a \bitten path-name \prmten de- 
+
+\hbox(6.94444+1.94444)x480.0, glue set 2.84912
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\mathon
+.\mathoff
+.\hbox(6.75+1.75)x113.17143
+..\bbfnine *
+..\bbfnine c
+..\bbfnine o
+..\bbfnine m
+..\bbfnine p
+..etc.
+.etc.
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 124--129
+ \prmten noted by the first ar-gu-ment to $$[], merged against the de-faults; t
+hat is, 
+
+\hbox(6.94444+1.94444)x480.0, glue set 2.1715
+.\glue(\leftskip) 48.0
+.\prmten n
+.\prmten o
+.\prmten t
+.\prmten e
+.etc.
+
+[4]
+Underfull \hbox (badness 1688) in paragraph at lines 332--334
+ []\prmten If an im-ple-men-ta-tion sup-ports ad-di-tional key-word ar-gu-ments
+ to $$[], 
+
+\hbox(6.94444+1.94444)x480.0, glue set 2.56656
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten I
+.\prmten f
+.\glue 3.33333
+.etc.
+
+[5]
+Overfull \hbox (22.18594pt too wide) in paragraph at lines 389--392
+ []\ssiten filespec\prmten ---a \bitten stream\prmten , or a \bitten path-name 
+des-ig-na-tor\prmten . The de-fault is taken from $$[].  
+
+\hbox(6.94444+1.94444)x480.0
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\ssiten  (ligature fi)
+.\ssiten l
+.\ssiten e
+.etc.
+
+[6] [7]
+Underfull \hbox (badness 10000) in alignment at lines 634--634
+[][][]
+
+\hbox(0.0+0.0)x480.0
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x58.00002
+.\glue(\tabskip) 0.0
+.\unsetbox(0.0+0.0)x39.84453
+.\glue(\tabskip) 0.0
+.etc.
+
+[8] [9] [10] [11]
+Underfull \hbox (badness 1102) in paragraph at lines 925--927
+ []\prmten The \bitten value \prmten of $$[] must al-ways be a \bitten path-nam
+e \prmten or $$[]. The \bitten value \prmten of 
+
+\hbox(6.94444+1.94444)x480.0, glue set 2.22566
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten T
+.\prmten h
+.\prmten e
+.etc.
+
+[12]
+Underfull \hbox (badness 1442) in paragraph at lines 934--942
+ []\prmten During a call to $$[], $$[] is \bitten bound \prmten to the \bitten 
+path-name \prmten de-noted by 
+
+\hbox(6.94444+1.94444)x480.0, glue set 2.43579
+.\glue(\leftskip) 48.0
+.\hbox(0.0+0.0)x0.0
+.\prmten D
+.\prmten u
+.\prmten r
+.etc.
+
+[13] [14] [15]) [16] )<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmbx9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbxsl10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi
+10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.p
+fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+
+Output written on chap-24.pdf (18 pages, 182964 bytes).
+PDF statistics:
+ 100 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
