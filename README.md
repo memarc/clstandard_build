@@ -20,4 +20,4 @@ Below are instructions for how to reproduce the output pdf from scratch, downloa
 
 3. In chap-0.tex, change the references to ".tc" files to ".toc".  It appears that this change was made upstream between dpans3 and dpans3r, but was not updated in the downloadable sources because dpans3r was not supposed to change any of the actual content files.
 
-4. Copy my script "buildstandard.bat" into the folder, and run it.  It will run pdftex on each chapter in turn, and then combine all the pdfs together using ghostscript. 
+4. Copy my script "builder.bat" into the folder, and run it.  It will run pdftex on each chapter in turn, and then combine all the pdfs together using ghostscript. 
