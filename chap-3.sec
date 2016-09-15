@@ -8,9 +8,9 @@
 !SymbolsAsForms Section 3.1.2.1.1\ Symbols as Forms
 !ConstantVars Section 3.1.2.1.1.3\ Constant Variables
 !FunctionForms Section 3.1.2.1.2.3\ Function Forms
-!LambdaForms Section 3.1.2.1.2.4\ Lambda Forms
+!LambdaForms Section 3.1.2.1.2.4{}Lambda Forms
 !LambdaExpressions Section 3.1.3\ Lambda Expressions
-!Shadowing Section 3.1.5{}Shadowing
+!Shadowing Section 3.1.5\ Shadowing
 !Compilation Section 3.2\ Compilation
 !CompilationTerms Section 3.2.1\ Compiler Terminology
 !ConstantModification Section 3.2.1\ Compiler Terminology
@@ -31,7 +31,7 @@
 !DeclScope Section 3.3.4\ Declaration Scope
 !LambdaLists Section 3.4\ Lambda Lists
 !OrdinaryLambdaLists Section 3.4.1\ Ordinary Lambda Lists
-!SuppressingKeyArgChecks Section 3.4.1.4.1{}Suppressing Keyword Argument Checking
+!SuppressingKeyArgChecks Section 3.4.1.4.1\ Suppressing Keyword Argument Checking
 !GFLambdaLists Section 3.4.2\ Generic Function Lambda Lists
 !SpecializedLambdaLists Section 3.4.3\ Specialized Lambda Lists
 !MacroLambdaLists Section 3.4.4\ Macro Lambda Lists

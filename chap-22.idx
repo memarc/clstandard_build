@@ -3,7 +3,7 @@
 !2G:printer escaping!!22--2
 !2R:ratio!!22--3
 !2R:float!!22--3
-!2R:complex!!22--4
+!2R:complex!!22--3
 !2G:pretty printer!!22--14
 !2G:logical blocks!!22--14
 !2G:conditional newlines!!22--14
@@ -38,16 +38,16 @@
 !2T:Tilde F (format directive)!!22--27
 !2T:E (format directive)!!22--28
 !2T:Tilde E (format directive)!!22--28
-!2T:G (format directive)!!22--30
-!2T:Tilde G (format directive)!!22--30
+!2T:G (format directive)!!22--29
+!2T:Tilde G (format directive)!!22--29
 !2T:Dollarsign (format directive)!!22--30
 !2T:Tilde Dollarsign (format directive)!!22--30
 !2T:A (format directive)!!22--31
 !2T:Tilde A (format directive)!!22--31
 !2T:S (format directive)!!22--31
 !2T:Tilde S (format directive)!!22--31
-!2T:W (format directive)!!22--32
-!2T:Tilde W (format directive)!!22--32
+!2T:W (format directive)!!22--31
+!2T:Tilde W (format directive)!!22--31
 !2T:Underscore (format directive)!!22--32
 !2T:Tilde Underscore (format directive)!!22--32
 !2T:Less-Than-Sign (format directive)!!22--32
@@ -58,34 +58,34 @@
 !2T:Tilde Slash (format directive)!!22--33
 !2T:T (format directive)!!22--34
 !2T:Tilde T (format directive)!!22--34
-!2T:Less-Than-Sign (format directive)!!22--35
-!2T:Tilde Less-Than-Sign (format directive)!!22--35
-!2T:Greater-Than-Sign (format directive)!!22--36
-!2T:Tilde Greater-Than-Sign (format directive)!!22--36
-!2T:Asterisk (format directive)!!22--36
-!2T:Tilde Asterisk (format directive)!!22--36
+!2T:Less-Than-Sign (format directive)!!22--34
+!2T:Tilde Less-Than-Sign (format directive)!!22--34
+!2T:Greater-Than-Sign (format directive)!!22--35
+!2T:Tilde Greater-Than-Sign (format directive)!!22--35
+!2T:Asterisk (format directive)!!22--35
+!2T:Tilde Asterisk (format directive)!!22--35
 !2T:Left-Bracket (format directive)!!22--36
 !2T:Tilde Left-Bracket (format directive)!!22--36
 !2T:Right-Bracket (format directive)!!22--37
 !2T:Tilde Right-Bracket (format directive)!!22--37
 !2T:Left-Brace (format directive)!!22--37
 !2T:Tilde Left-Brace (format directive)!!22--37
-!2T:Right-Brace (format directive)!!22--39
-!2T:Tilde Right-Brace (format directive)!!22--39
-!2T:Question-Mark (format directive)!!22--39
-!2T:Tilde Question-Mark (format directive)!!22--39
+!2T:Right-Brace (format directive)!!22--38
+!2T:Tilde Right-Brace (format directive)!!22--38
+!2T:Question-Mark (format directive)!!22--38
+!2T:Tilde Question-Mark (format directive)!!22--38
 !2T:Left-Paren (format directive)!!22--39
 !2T:Tilde Left-Paren (format directive)!!22--39
-!2T:Right-Paren (format directive)!!22--40
-!2T:Tilde Right-Paren (format directive)!!22--40
-!2T:P (format directive)!!22--40
-!2T:Tilde P (format directive)!!22--40
+!2T:Right-Paren (format directive)!!22--39
+!2T:Tilde Right-Paren (format directive)!!22--39
+!2T:P (format directive)!!22--39
+!2T:Tilde P (format directive)!!22--39
 !2T:Semicolon (format directive)!!22--40
 !2T:Tilde Semicolon (format directive)!!22--40
-!2T:Circumflex (format directive)!!22--41
-!2T:Tilde Circumflex (format directive)!!22--41
-!2T:Newline (format directive)!!22--42
-!2T:Tilde Newline (format directive)!!22--42
+!2T:Circumflex (format directive)!!22--40
+!2T:Tilde Circumflex (format directive)!!22--40
+!2T:Newline (format directive)!!22--41
+!2T:Tilde Newline (format directive)!!22--41
 !2R:copy-pprint-dispatch!!22--46
 !2R:formatter!!22--46
 !2R:pprint-dispatch!!22--47
@@ -103,7 +103,7 @@
 !2T:Dot Dot Dot!!22--55
 !2C:...!!22--55
 !2T:Sharpsign Sharpsign (reader macro)!!22--56
-!2R:pprint-tab!!22--57
+!2R:pprint-tab!!22--56
 !2R:print-object!!22--57
 !2R:print-unreadable-object!!22--59
 !2R:set-pprint-dispatch!!22--60

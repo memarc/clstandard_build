@@ -8,6 +8,6 @@
 !25--8. Functions that setf can be used with---2!!5--7
 !25--9. Read-Modify-Write Macros!!5--12
 !25--10. Macros that have implicit tagbodies.!!5--49
-!25--11. Operators that always prefer EQ over EQL!!5--57
+!25--11. Operators that always prefer EQ over EQL!!5--58
 !25--12. Summary and priorities of behavior of {{$ $}}\hbox {{\bbfnine equal\/}}!!5--61
 !25--13. Summary and priorities of behavior of {{$ $}}\hbox {{\bbfnine equalp\/}}!!5--63

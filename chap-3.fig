@@ -11,15 +11,15 @@
 !23--11. Defined names applicable to lambda lists!!3--33
 !23--12. Standardized Operators that use Ordinary Lambda Lists!!3--34
 !23--13. Lambda List Keywords used by Ordinary Lambda Lists!!3--34
-!23--14. Lambda List Keywords used by Generic Function Lambda Lists!!3--40
+!23--14. Lambda List Keywords used by Generic Function Lambda Lists!!3--39
 !23--15. Standardized Operators that use Specialized Lambda Lists!!3--40
 !23--16. Lambda List Keywords used by Specialized Lambda Lists!!3--40
 !23--17. Operators that use Macro Lambda Lists!!3--41
-!23--18. Lambda List Keywords used by Macro Lambda Lists!!3--42
+!23--18. Lambda List Keywords used by Macro Lambda Lists!!3--41
 !23--19. Lambda List Keywords used by Defsetf Lambda Lists!!3--47
 !23--20. Lambda List Keywords used by Define-modify-macro Lambda Lists!!3--48
 !23--21. Lambda List Keywords used by Define-method-combination arguments Lambda Lists!!3--48
-!23--22. Global Declaration Specifiers!!3--82
-!23--23. Standardized Forms In Which Declarations Can Occur!!3--84
-!23--24. Local Declaration Specifiers!!3--84
-!23--25. Optimize qualities!!3--97
+!23--22. Global Declaration Specifiers!!3--81
+!23--23. Standardized Forms In Which Declarations Can Occur!!3--83
+!23--24. Local Declaration Specifiers!!3--83
+!23--25. Optimize qualities!!3--96

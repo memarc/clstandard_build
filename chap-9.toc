@@ -14,7 +14,7 @@
 !59.1.3.1.5\ Mentioning Containing Function in Condition Reports !!9--6
 !39.1.4\ Signaling and Handling Conditions !!9--6
 !49.1.4.1\ Signaling !!9--7
-!59.1.4.1.1\ Resignaling a Condition !!9--8
+!59.1.4.1.1\ Resignaling a Condition !!9--7
 !49.1.4.2\ Restarts !!9--8
 !59.1.4.2.1\ Interactive Use of Restarts !!9--9
 !59.1.4.2.2\ Interfaces to Restarts !!9--9

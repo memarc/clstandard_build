@@ -1,16 +1,18 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdftex 2015.6.16)  11 OCT 2015 19:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdftex 2016.7.17)  14 SEP 2016 21:52
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **chap-8.tex
-(chap-8.tex (setup.tex (setup-version.tex) (setup-title.tex) (setup-aux.tex
-(setup-cmfont.tex)
+(./chap-8.tex (./setup.tex (./setup-version.tex) (./setup-title.tex)
+(./setup-aux.tex (./setup-cmfont.tex)
 \normalleftskip=\skip18
 \comleftskip=\skip19
 \hcomleftskip=\skip20
 \normalparskip=\skip21
 \combarht=\dimen16
 \fullhsize=\dimen17
-\headline=\toks12
-\footline=\toks13
+\headline=\toks13
+\footline=\toks14
 \iskip=\skip22
 \iiskip=\skip23
 \iiiskip=\skip24
@@ -22,22 +24,35 @@ entering extended mode
 \issfile=\write3
 \reffile=\write4
 \secfile=\write5
-\capno=\count26
-\secn=\count27
-\ssecn=\count28
-\sssecn=\count29
-\ssssecn=\count30
-\sssssecn=\count31
-\ssssssecn=\count32
+\capno=\count27
+\secn=\count28
+\ssecn=\count29
+\sssecn=\count30
+\ssssecn=\count31
+\sssssecn=\count32
+\ssssssecn=\count33
 \comline=\box18
 \idxins=\insert252
 \leftcolumn=\box19
 \dotw=\dimen18
 \changedepth=\dimen19
-) (setup-document.tex) (setup-tables.tex) (setup-terms.tex)
-(setup-figures.tex) (setup-sections.tex) (setup-options.tex)) [-1{C:/Users/vanc
-an1ty/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [-2]
-(dict-structures.tex
+) (./setup-document.tex)
+(./setup-tables.tex) (./setup-terms.tex) (./setup-figures.tex)
+(./setup-sections.tex) (./setup-options.tex))
+\openout0 = `chap-8.toc'.
+
+\openout1 = `chap-8.fig'.
+
+\openout2 = `chap-8.idx'.
+
+\openout3 = `chap-8.iss'.
+
+\openout4 = `chap-8.ref'.
+
+\openout5 = `chap-8.sec'.
+
+ [-1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [-2] (./dict-structure
+s.tex
 Underfull \hbox (badness 10000) in alignment at lines 15--15
 [][][]
 
@@ -45,7 +60,7 @@ Underfull \hbox (badness 10000) in alignment at lines 15--15
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x88.44481
+.\unsetbox(0.0+0.0)x88.44499
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -57,7 +72,7 @@ Underfull \hbox (badness 10000) in alignment at lines 25--25
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x44.27809
+.\unsetbox(0.0+0.0)x44.27827
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -69,7 +84,7 @@ Underfull \hbox (badness 10000) in alignment at lines 29--29
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x87.9279
+.\unsetbox(0.0+0.0)x87.92809
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -81,7 +96,7 @@ Underfull \hbox (badness 10000) in alignment at lines 35--35
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x90.01126
+.\unsetbox(0.0+0.0)x90.01144
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -93,7 +108,7 @@ Underfull \hbox (badness 10000) in alignment at lines 38--38
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x68.039
+.\unsetbox(0.0+0.0)x68.03918
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -105,7 +120,7 @@ Underfull \hbox (badness 10000) in alignment at lines 41--41
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x80.789
+.\unsetbox(0.0+0.0)x80.78918
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -117,7 +132,7 @@ Underfull \hbox (badness 10000) in alignment at lines 43--43
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x72.34453
+.\unsetbox(0.0+0.0)x72.34471
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -129,7 +144,7 @@ Underfull \hbox (badness 10000) in alignment at lines 45--45
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x70.51123
+.\unsetbox(0.0+0.0)x70.51141
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -141,7 +156,7 @@ Underfull \hbox (badness 10000) in alignment at lines 47--47
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x91.31679
+.\unsetbox(0.0+0.0)x91.31697
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -153,7 +168,7 @@ Underfull \hbox (badness 10000) in alignment at lines 50--50
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x99.98347
+.\unsetbox(0.0+0.0)x99.98366
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -165,7 +180,7 @@ Underfull \hbox (badness 10000) in alignment at lines 51--51
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x61.01122
+.\unsetbox(0.0+0.0)x61.0114
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -177,7 +192,7 @@ Underfull \hbox (badness 10000) in alignment at lines 52--52
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x70.70567
+.\unsetbox(0.0+0.0)x70.70586
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -189,7 +204,7 @@ Underfull \hbox (badness 10000) in alignment at lines 53--53
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x92.37234
+.\unsetbox(0.0+0.0)x92.37253
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -201,7 +216,7 @@ Underfull \hbox (badness 10000) in alignment at lines 58--58
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x76.70564
+.\unsetbox(0.0+0.0)x76.70583
 .\glue(\tabskip) 0.0
 .etc.
 
@@ -213,36 +228,24 @@ Underfull \hbox (badness 10000) in alignment at lines 60--60
 .\glue(\tabskip) 0.0
 .\unsetbox(0.0+0.0)x58.00002
 .\glue(\tabskip) 0.0
-.\unsetbox(0.0+0.0)x58.0112
+.\unsetbox(0.0+0.0)x58.01138
 .\glue(\tabskip) 0.0
 .etc.
 
-[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]
-Underfull \hbox (badness 1163) in paragraph at lines 1012--1015
- []\prmten If $$[] is not sup-plied, the struc-ture is rep-re-sented as an \bit
-ten ob-ject \prmten of \bitten type 
-
-\hbox(6.94444+2.0)x480.0, glue set 2.26648
-.\glue(\leftskip) 84.0
-.\hbox(0.0+0.0)x0.0
-.\prmten I
-.\prmten f
-.\glue 3.33333
-.etc.
-
-[13] [14] [15] [16] [17]) [18] )<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmssi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmtt9.pfb>
-Output written on chap-8.pdf (20 pages, 173685 bytes).
+[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17])
+[18] ){/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr
+/share/texmf/fonts/type1/public/lm/lmbx9.pfb></usr/share/texmf/fonts/type1/publ
+ic/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/te
+xmf/fonts/type1/public/lm/lmtt9.pfb>
+Output written on chap-8.pdf (20 pages, 242488 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -9,16 +9,16 @@
 !PrintingComplexes Section 22.1.3.1.4\ Printing Complexes
 !PrintingCharacters Section 22.1.3.2\ Printing Characters
 !PrintingSymbols Section 22.1.3.3\ Printing Symbols
-!ReadtableCasePrintEffect Section 22.1.3.3.2{}Effect of Readtable Case on the Lisp Printer
+!ReadtableCasePrintEffect Section 22.1.3.3.2\ Effect of Readtable Case on the Lisp Printer
 !ReadtableCasePrintExamples Section 22.1.3.3.2.1{}Examples of Effect of Readtable Case on the Lisp Printer
-!PrintingStrings Section 22.1.3.4\ Printing Strings
-!PrintingListsAndConses Section 22.1.3.5\ Printing Lists and Conses
+!PrintingStrings Section 22.1.3.4{}Printing Strings
+!PrintingListsAndConses Section 22.1.3.5{}Printing Lists and Conses
 !PrintingBitVectors Section 22.1.3.6\ Printing Bit Vectors
 !PrintingOtherVectors Section 22.1.3.7\ Printing Other Vectors
 !PrintingOtherArrays Section 22.1.3.8\ Printing Other Arrays
 !PrintingRandomStates Section 22.1.3.10\ Printing Random States
 !PrintingPathnames Section 22.1.3.11\ Printing Pathnames
-!PrintingStructures Section 22.1.3.12{}Printing Structures
+!PrintingStructures Section 22.1.3.12\ Printing Structures
 !PrintingOtherObjects Section 22.1.3.13{}Printing Other Objects
 !PPrinter Section 22.2\ The Lisp Pretty Printer
 !DynamicControlofOutput Section 22.2.1.1\ Dynamic Control of the Arrangement of Output

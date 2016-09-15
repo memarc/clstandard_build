@@ -11,7 +11,7 @@
 !2R:unsigned-byte!!12--18
 !2R:mod!!12--19
 !2R:bit!!12--19
-!2R:fixnum!!12--20
+!2R:fixnum!!12--19
 !2R:bignum!!12--20
 !2R:=, /=, {$\spLT $}, {$\spGT $}, {$\spLT $}=, {$\spGT $}=!!12--20
 !2R:max, min!!12--22

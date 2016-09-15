@@ -11,7 +11,7 @@
 !41.4.1.2\ Modified BNF Syntax !!1--7
 !51.4.1.2.1\ Splicing in Modified BNF Syntax !!1--8
 !51.4.1.2.2\ Indirection in Modified BNF Syntax !!1--9
-!51.4.1.2.3\ Additional Uses for Indirect Definitions in Modified BNF Syntax !!1--10
+!51.4.1.2.3\ Additional Uses for Indirect Definitions in Modified BNF Syntax !!1--9
 !41.4.1.3\ Special Symbols !!1--10
 !41.4.1.4\ Objects with Multiple Notations !!1--12
 !51.4.1.4.1\ Case in Symbols !!1--12

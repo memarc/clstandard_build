@@ -57,7 +57,7 @@
 !42.4.8.3{}Sharpsign Left-Parenthesis !!2--31
 !42.4.8.4\ Sharpsign Asterisk !!2--32
 !52.4.8.4.1\ Examples of Sharpsign Asterisk !!2--32
-!42.4.8.5\ Sharpsign Colon !!2--33
+!42.4.8.5\ Sharpsign Colon !!2--32
 !42.4.8.6\ Sharpsign Dot !!2--33
 !42.4.8.7\ Sharpsign B !!2--33
 !42.4.8.8\ Sharpsign O !!2--33

@@ -37,7 +37,7 @@
 !2R:restart!!9--48
 !2R:compute-restarts!!9--49
 !2R:find-restart!!9--50
-!2R:invoke-restart!!9--52
+!2R:invoke-restart!!9--51
 !2R:invoke-restart-interactively!!9--53
 !2R:restart-bind!!9--54
 !2R:restart-case!!9--56

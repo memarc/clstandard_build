@@ -1,16 +1,18 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdftex 2015.6.16)  11 OCT 2015 19:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdftex 2016.7.17)  14 SEP 2016 21:52
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **chap-16.tex
-(chap-16.tex (setup.tex (setup-version.tex) (setup-title.tex) (setup-aux.tex
-(setup-cmfont.tex)
+(./chap-16.tex (./setup.tex (./setup-version.tex) (./setup-title.tex)
+(./setup-aux.tex (./setup-cmfont.tex)
 \normalleftskip=\skip18
 \comleftskip=\skip19
 \hcomleftskip=\skip20
 \normalparskip=\skip21
 \combarht=\dimen16
 \fullhsize=\dimen17
-\headline=\toks12
-\footline=\toks13
+\headline=\toks13
+\footline=\toks14
 \iskip=\skip22
 \iiskip=\skip23
 \iiiskip=\skip24
@@ -22,35 +24,49 @@ entering extended mode
 \issfile=\write3
 \reffile=\write4
 \secfile=\write5
-\capno=\count26
-\secn=\count27
-\ssecn=\count28
-\sssecn=\count29
-\ssssecn=\count30
-\sssssecn=\count31
-\ssssssecn=\count32
+\capno=\count27
+\secn=\count28
+\ssecn=\count29
+\sssecn=\count30
+\ssssecn=\count31
+\sssssecn=\count32
+\ssssssecn=\count33
 \comline=\box18
 \idxins=\insert252
 \leftcolumn=\box19
 \dotw=\dimen18
 \changedepth=\dimen19
-) (setup-document.tex) (setup-tables.tex) (setup-terms.tex)
-(setup-figures.tex) (setup-sections.tex) (setup-options.tex)) [-1{C:/Users/vanc
-an1ty/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [-2]
-(concept-strings.tex) [1] (dict-strings.tex [2] [3] [4] [5] [6] [7] [8]
-[9] [10] [11] [12]) [13] [14] )<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmbx9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmssi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmtt9.pfb>
-Output written on chap-16.pdf (16 pages, 155784 bytes).
+) (./setup-document.tex)
+(./setup-tables.tex) (./setup-terms.tex) (./setup-figures.tex)
+(./setup-sections.tex) (./setup-options.tex))
+\openout0 = `chap-16.toc'.
+
+\openout1 = `chap-16.fig'.
+
+\openout2 = `chap-16.idx'.
+
+\openout3 = `chap-16.iss'.
+
+\openout4 = `chap-16.ref'.
+
+\openout5 = `chap-16.sec'.
+
+ [-1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [-2] (./concept-string
+s.tex) [1] (./dict-strings.tex
+[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]) [13] [14] ){/usr/share/texmf/fo
+nts/enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+si10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/sha
+re/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/
+lm/lmbx9.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmtt9.pfb>
+Output written on chap-16.pdf (16 pages, 208702 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
