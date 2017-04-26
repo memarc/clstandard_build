@@ -190,6 +190,7 @@
 \DefineChapter{#5}{#6}{#1}{#3}
 \capno=1\ssecn=0\sssecn=0\ssssecn=0\sssssecn=0\ssssssecn=0\relax
 \def\chapno{#1}\def\chapline{#4}\setbox\comline\null
+\outline{1}{#1 #4}
 \Head {#2}
 \HeadI {#1. #3}
 \begingroup 
@@ -758,18 +759,67 @@
 \docaption
 \Vskip1pc!}
 
+\catcode`@=11
+\let\expandafter@i\expandafter
+\count255=1
+\loop\ifnum\count255<200
+    \edef\temp{\the\count255}
+    \advance\count255 by 1
+    \expandafter\def\csname expandafter@\romannumeral\count255\expandafter\endcsname
+    \expandafter{\expandafter\expandafter
+        \csname expandafter@\romannumeral\temp\endcsname \expandafter}%
+\repeat
+\def\expandafter@{}
+\def\expandafter@e{\errmessage{Argument of \noexpand\multexpafter must be between 0 and 100}}
+\def\multexpafter#1{\csname expandafter@\ifnum#1>100 e\else
+    \csname expandafter@\ifnum#1=0 ii\else\romannumeral\numexpr2*#1\fi\fi\endcsname
+    \endcsname\csname expandafter@\romannumeral#1\endcsname}
+\catcode`@=12
+
+\def\bspace{ }
+
+% CB trick found on stackoverflow here https://tex.stackexchange.com/questions/347030/force-evaluation-of-a-counter-in-endnote\
+% to force evaluation of various things before getting passed to the outline command
+\def\boutlineONE #1{%
+	\edef\tmp{%
+\noexpand\outline{2}{\chapno\bspace #1}}\tmp	
+}
+
+
+\def\boutlineTWO #1{%
+	\edef\tmp{%
+\noexpand\outline{2}{\chapno.\the\ssecn\bspace #1}}\tmp	
+}
+
+\def\boutlineTHREE #1{%
+	\edef\tmp{%
+\noexpand\outline{3}{\chapno.\the\ssecn.\the\sssecn\bspace #1}}\tmp	
+}
+
+\def\boutlineFOUR #1{%
+	\edef\tmp{%
+\noexpand\outline{4}{\chapno.\the\ssecn.\the\sssecn.\the\ssssecn\bspace #1}}\tmp	
+}
+
+\def\boutlineDICT {%
+	\edef\tmp{%
+\noexpand\outline{2}{\chapno.\the\ssecn\bspace Dictionary}}\tmp	
+}
+
+
 \def\startSection{\advance\ssecn 1\sssecn=0\ssssecn=0\sssssecn=0\ssssssecn=0}
-\def\beginSection #1{\startSection\leftskip\normalleftskip\HeadII{\ #1}}
+\def\beginSection #1{\startSection \boutlineTWO{#1} \leftskip\normalleftskip\HeadII{\ #1}}
 %Dictionary sections don't start with a banner line announcing their section name.
-\def\includeDictionary #1{\startSection\toc2{\chapno.\the\ssecn\ {\chapline} Dictionary}
+%CB looks like dictionaries are pretty much are always on level with 'startSection'
+\def\includeDictionary #1{\startSection \boutlineDICT \toc2{\chapno.\the\ssecn\ {\chapline} Dictionary}
 \input #1
 \endSection}
     
 \def\startSubsection{\advance\sssecn 1\ssssecn=0\sssssecn=0\ssssssecn=0}
-\def\beginSubsection #1{\startSubsection\HeadIII{\ #1}}
+\def\beginSubsection #1{\startSubsection   \boutlineTHREE{#1} \HeadIII{\ #1}}
 
 \def\startsubsubsection{\advance\ssssecn 1\sssssecn=0\ssssssecn=0}
-\def\beginsubsubsection #1{\startsubsubsection\HeadIV{\ #1}}
+\def\beginsubsubsection #1{\startsubsubsection \boutlineFOUR{#1} \HeadIV{\ #1}}
 
 \def\startsubsubsubsection{\advance\sssssecn 1\ssssssecn=0}
 \def\beginsubsubsubsection #1{\startsubsubsubsection\HeadV{\ #1}}
@@ -865,7 +915,7 @@
 \donormalcomma
 
 \def\dobegincom
-#1\ftype #2{\leftskip0pc\rightskip0pc plus10pc\bfsixteen
+#1\ftype #2{\outline{3}{#1}\leftskip0pc\rightskip0pc plus10pc\bfsixteen
 \baselineskip 16pt
 \dospecialcomma\let\break=\ignorespaces
 \global\setbox1=\vbox{\hsize 40pc\lowercase{#1}}
