@@ -1,4 +1,22 @@
-Currell Berry, 10/11/2015
+Currell Berry, 07/31/2017
+================================
+
+This folder contains the tex sources of the final common lisp standard draft, along with some scripts which I have written to handle compiling them into a pdf with a sidebar index (for the output of this process, please see [[http://cvberry.com/downloads/cl-ansi-standard-draft-w-sidebar.pdf][here]] for the output.  The instructions immediately below document how to build the pdf with sidebar links.  To build my older revision of the draft in which I simply concatenated together a number of individual pdfs, see my instructions futher below.
+
+Dependencies
+---------------------------------
+- Linux
+- A Latex distribution
+- Make
+
+Build
+---------------------------------
+run 
+
+    ./maker.sh build  && ./maker.sh solidify
+
+
+OLDER INSTRUCTIONS -- reproducing simple PDF from scratch, 10/11/2015
 =================================
 
 This folder contains the tex sources of the final common lisp standard draft, along with a bat script which I have written which compile the standard into a single pdf.  This is the pdf which I make available for download on my site.
@@ -6,12 +24,12 @@ This folder contains the tex sources of the final common lisp standard draft, al
 The code as written works on windows.  You will have to port makestandard.bat to bash if you want to run on Mac or Linux.
 
 Dependencies
-=================================
+---------------------------------
 - pdftex (available as pdftex on PATH)
 - ghostscript (available as gswin64c on PATH)
 
 Reproduce
-=================================
+---------------------------------
 Below are instructions for how to reproduce the output pdf from scratch, downloading all tex sources from the original source. 
 
 1. Download tex sources for revision dpans3 and dpans3r from http://www.cs.cmu.edu/afs/cs/Web/Groups/AI/lang/lisp/doc/standard/ansi/dpans/ .
