@@ -1,7 +1,9 @@
 Currell Berry, 07/31/2017
 ================================
 
-This folder contains the tex sources of the final common lisp standard draft, along with some scripts which I have written to handle compiling them into a pdf with a sidebar index (for the output of this process, please see [[http://cvberry.com/downloads/cl-ansi-standard-draft-w-sidebar.pdf][here]] for the output.  The instructions immediately below document how to build the pdf with sidebar links.  To build my older revision of the draft in which I simply concatenated together a number of individual pdfs, see my instructions futher below.
+This folder contains the tex sources of the final common lisp standard draft, along with some scripts which I have written to handle compiling them into a pdf with a sidebar index (for the output of this process, please see [here](http://cvberry.com/downloads/cl-ansi-standard-draft-w-sidebar.pdf) for the output.  
+
+The instructions immediately below document how to build the pdf with sidebar links.  To build my older revision of the draft in which I simply concatenated together a number of individual pdfs, see my old instructions futher below.
 
 Dependencies
 ---------------------------------
